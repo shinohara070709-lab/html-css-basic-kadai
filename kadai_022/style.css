@@ -38,7 +38,7 @@ h2::before{
  font-weight: bold;
  color: rgb(97, 206, 249);
 }
-.img{
+.contents img{
   margin: 10px 0;
   width: 70%;
 }
